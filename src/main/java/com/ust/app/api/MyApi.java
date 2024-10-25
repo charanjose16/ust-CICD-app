@@ -8,6 +8,6 @@ public class MyApi {
 
     @GetMapping
     public  String sayHello(){
-        return "Hello!";
+        return "Hello Ust! Greeting from Charan";
     }
 }
